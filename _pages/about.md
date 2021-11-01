@@ -2,23 +2,25 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: (they/them)
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Innovation Hall E446</p>
+    <p>University of Vermont</p>
+    <p>82 University Pl, Burlington, VT, 05405</p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD student in Computer Science at the University of Vermont, co-advised by [Laurent Hébert-Dufresne](http://laurenthebertdufresne.github.io/) and [Jean-Gabriel Young](https://www.jgyoung.ca/). 
+My research involves combining mechanistic modeling and Bayesian statistics for the study of epidemiology and ecology. 
+I'm particularly interested in using these tools for informing how data should collected and for assessing control options from a decision-theoretic perspective.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before coming to UVM, I obtained an MRes. degree in Natural Computation at the University of Birmingham, where I studied theoretical runtime analysis of Evolutionary Algorithms, and recieved a B.A. in Mathematics at Oberlin College. Download my CV [here]({{ site.url }}/assets/pdf/cv-nov-2021.pdf).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My hobbies are running 🏃‍♀️, cooking 👩‍🍳, and eating 🍽.

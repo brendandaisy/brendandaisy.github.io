@@ -21,6 +21,6 @@ I am a PhD candidate in Computer Science at the University of Vermont, co-advise
 My research involves combining mechanistic modeling and Bayesian statistics for the study of epidemiology and ecology. 
 I'm particularly interested in using these tools for informing how data should be collected and for assessing control options from a decision-theoretic perspective.
 
-Before coming to UVM, I obtained an MRes. degree in Natural Computation at the University of Birmingham, where I studied theoretical runtime analysis of Evolutionary Algorithms, and recieved a B.A. in Mathematics at Oberlin College. Download my CV [here]({{ site.url }}/assets/pdf/cv-feb-2023.pdf).
+Before coming to UVM, I obtained an MRes. degree in Natural Computation at the University of Birmingham, where I studied theoretical runtime analysis of Evolutionary Algorithms, and recieved a B.A. in Mathematics at Oberlin College. Download my CV [here]({{ site.url }}/assets/pdf/cv-may-2023.pdf).
 
 My hobbies are running 🏃‍♀️, cooking 👩‍🍳, and eating 🍽.

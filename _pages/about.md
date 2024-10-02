@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 Currently I am a postdoc in the Epidemiology and Biostatistics department at the University of Georgia, where I am working in the lab of [Spencer Fox](https://spncrfx.wordpress.com/).
 My research involves combining mechanistic modeling and Bayesian statistics for the study of epidemiology and ecology. 
-I'm particularly interested in using these tools for informing how data should be collected and for assessing control options from an information-theoretic perspective. Download my CV [here]({{ site.url }}/assets/pdf/cv-mar-2024.pdf).
+I'm particularly interested in using these tools for informing how data should be collected and for assessing control options from an information-theoretic perspective. Download my CV [here]({{ site.url }}/assets/pdf/cv-oct-2024.pdf).
 
 I recently completed a PhD in Computer Science at the University of Vermont, co-advised by [Laurent Hébert-Dufresne](http://laurenthebertdufresne.github.io/) and [Jean-Gabriel Young](https://www.jgyoung.ca/).
 Before coming to UVM, I obtained an MRes. degree in Natural Computation at the University of Birmingham, where I studied theoretical runtime analysis of Evolutionary Algorithms, and recieved a B.A. in Mathematics at Oberlin College.

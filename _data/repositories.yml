@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - brendandaisy
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - brendandaisy/inla-forecasting-paper
+  - brendandaisy/MarginalDivergence.jl
+  - brendandaisy/sc-ticks-survey
+  - brendandaisy/ConditionalTransform.jl
+  - brendandaisy/chagas-adaptive-sampling
